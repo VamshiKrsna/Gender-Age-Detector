@@ -15,8 +15,8 @@ This is an OpenCV based project that uses a CaffeNet CNN Model to estimate and d
 
 * cd into this directory.
 * Run the following command:
-```
-python detect1.py
-```
+  ```
+  python detect1.py
+  ```
 
     
